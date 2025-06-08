@@ -1,0 +1,12 @@
+{
+  "websites": [
+    {
+      "name": "Cool Math Games",
+      "url": "https://www.coolmathgames.com/"
+    },
+    {
+      "name": "2048",
+      "url": "https://play2048.co/"
+    }
+  ]
+} 
