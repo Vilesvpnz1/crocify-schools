@@ -1,0 +1,12 @@
+{
+  "userscripts": [
+    {
+      "name": "Dark Mode for Crocify",
+      "url": "https://example.com/darkmode.user.js"
+    },
+    {
+      "name": "Auto-Login Script",
+      "url": "https://example.com/autologin.user.js"
+    }
+  ]
+} 
