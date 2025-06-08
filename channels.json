@@ -1,0 +1,18 @@
+{
+    "schools": [],
+    "settings": {
+        "max_channels": 100,
+        "channel_prefix": "school-",
+        "allowed_roles": [
+            "admin",
+            "moderator"
+        ],
+        "message_retention_days": 30
+    },
+    "statistics": {
+        "total_channels": 0,
+        "total_messages": 0,
+        "active_users": 0,
+        "last_updated": "2025-06-07T21:36:38.908676"
+    }
+}
