@@ -1,5 +1,13 @@
 {
-    "schools": [],
+    "schools": [
+        {
+            "name": "morrison",
+            "channel_id": 1381085037461639299,
+            "created_at": "2025-06-07T21:38:49.483421",
+            "members": [],
+            "last_message": null
+        }
+    ],
     "settings": {
         "max_channels": 100,
         "channel_prefix": "school-",
@@ -10,9 +18,9 @@
         "message_retention_days": 30
     },
     "statistics": {
-        "total_channels": 0,
+        "total_channels": 1,
         "total_messages": 0,
         "active_users": 0,
-        "last_updated": "2025-06-07T21:36:38.908676"
+        "last_updated": "2025-06-07T21:38:49.483470"
     }
 }
